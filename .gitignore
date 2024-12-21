@@ -16,9 +16,6 @@ target/
 # Maven / Gradle
 *.pom
 
-# Database
-*.db
-
 # System files
 .DS_Store
 Thumbs.db
